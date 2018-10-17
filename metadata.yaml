@@ -26,6 +26,7 @@ series_note: Home University Library of Modern Knowledge, No. 99
 subjects:
 - !lcsh 'Russian literature -- History and criticism'
 - !lcc 'PG'
+- GITenberg
 tableOfContents: 'The origins -- The new age: Pushkin -- Lermontov -- The age of prose
   -- The epoch of reform -- Tolstoy and Dostoyevsky -- The second age of poetry --
   Conclusion -- Chronological table.'
